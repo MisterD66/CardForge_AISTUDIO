@@ -1,0 +1,5 @@
+{
+  "name": "Card Forge",
+  "description": "Generate printable playing cards with AI illustrations from CSV data.",
+  "requestFramePermissions": []
+}
